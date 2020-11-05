@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args){
 
-        System.out.println("hello world");
+        System.out.println("hello world and see the sum result below ...");
         System.out.println("The sum is : " + findSum(1,66));
     }
 
